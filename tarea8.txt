@@ -1,0 +1,27 @@
+Tarea 8 Organización de Centros de Computo.
+Gallegos Gallegos Aldo.
+
+Ejemplificar 5 puntos:
+
+1. Operar el sistema de computación central y mantener el sistema dispoible para los usuarios.
+-- Tener un buen mantenimiento y conocimiento de el funcionamiento de un centro de computo para poder llevar a cabo
+una funcionalidad exitosa del mismo. Así como conocer los protocolos de seguridad que se requieren o que se deben de tomar en cuenta.
+
+2. Marcar y/o señalizar los productos de los procesos ejecutados.
+-- El indicar cuando una actualización, o alguna instalación de algún software nuevo se haya realizado de manera correcta y 
+poder indicar a los demás usuarios que se ha realizado y que estén al tanto de ello.
+
+3. Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la dirección, conforme a parámetros
+preestablecidos.
+-- El hacer una copia de seguridad periodicamente para no perder ningún tipo de archivo, o de cualquier información que sea util
+para el manejo del centro de computo.
+
+4. Llevar registros de fallas, problemas, soluciones, acciones desarrolladas, respaldos, recuperaciones
+y trabajos realizados.
+-- Esto permite llevar de una manera más eficiente y más ordenada todo tipo de percances que se puedan presentar 
+en un futuro, ya sea manejando una bitacora para poder tener control sobre cualquier situación.
+
+5. Aplicar de forma estricta las normas de seguridad y control establecidas.
+-- El llevar de manera adecuada los protocolos que se necesitan es la mejor manera de hacer que 
+se tenga un mejor control en caso de algún tipo de incidentes que se pueden presentar y evitar
+tener algún inconveniente de mayor grado.
